@@ -2,7 +2,7 @@
 
 [![version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/zenixsgames/godot-ca-water)
 [![godot](https://img.shields.io/badge/godot-4.5-blue)](https://godotengine.org/)
-[![link](https://img.shields.io/badge/link-blue)](https://github.com/zenixsgames/godot-ca-water)
+[![link](https://img.shields.io/badge/link-blue)](https://github.com/Zylann/fluid2d_demo)
 
 ## ⚡ Overview
 
